@@ -6,7 +6,7 @@ def clicked():
     lbname.configure(text=name) 
   
 window = Tk()  
-window.title("Добро пожаловать в приложение PythonRu")  
+window.title("Добро пожаловать в приложение")  
 window.geometry('400x250')  
 lbl = Label(window, text="Введите свою фамилию")  
 lbl.grid(column=0, row=0)  
