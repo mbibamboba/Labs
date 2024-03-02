@@ -4,6 +4,9 @@
 3. https://git-scm.com/book/ru/v2/
 4. https://dangitgit.com/ru
 5. https://learngitbranching.js.org/?locale=ru_RU
+   
+# Шпаргалка
+![](GIT_SHpargalka.png)
 
 # Мемасик
 
