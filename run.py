@@ -8,7 +8,7 @@ def clicked():
 window = Tk()  
 window.title("Добро пожаловать в приложение")  
 window.geometry('400x250')  
-lbl = Label(window, text="Введите свою фамилию")  
+lbl = Label(window, text="Введите свою Максимова_Матюшина")  
 lbl.grid(column=0, row=0)  
 lbname = Label(window, text='', height=3, font='Arial 30')
 lbname.grid(column=2, row=2)  
